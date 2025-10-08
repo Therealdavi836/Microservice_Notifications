@@ -33,7 +33,7 @@ gunicorn==21.2.0
 
 ---
 
-## ⚙️ Configuración y variables de entorno
+## Configuración y variables de entorno
 
 Archivo `.env`:
 
